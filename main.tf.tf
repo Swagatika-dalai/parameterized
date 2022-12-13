@@ -24,13 +24,13 @@ variable "region" {
 
 
 variable "access_key" {
-  default = "AKIAV6SFYEPQOS5KXFXX"
+  default = ""
  
 }
 
 
 variable "secret_key" {
-  default = "M4al0i3xlnWb66k4kwW8tb9pdE2f0BhO0sM98QBy"
+  default = ""
  
 }
 
